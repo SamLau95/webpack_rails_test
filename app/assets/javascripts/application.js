@@ -1,1 +1,3 @@
-console.log("Hello world");
+// Loads the webpack-bundled JS
+//
+//= require dist/rails-bundle
